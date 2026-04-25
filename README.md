@@ -1,5 +1,4 @@
 💳 ATM-Simulation
-📌 Description
 
 This is a simple ATM Simulation project in Python.
 It mimics the basic functions of a real ATM machine like checking balance, depositing money, withdrawing money, and viewing transaction history.
